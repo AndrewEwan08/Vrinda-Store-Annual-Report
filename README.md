@@ -15,3 +15,7 @@ Vrinda Store wants to create an annual sales report for 2022. So that, Vrinda ca
 -	Relation between age and gender based on numbers of orders
 -	Which channel is contributing to maximum sales?
 -	Highest selling categories?
+
+
+## Dashboard:
+<img width="1366" height="768" alt="Screenshot 2026-08-27 155224" src="https://github.com/user-attachments/assets/e2426afa-3edb-45c3-bc8f-b5c46433a811" />
